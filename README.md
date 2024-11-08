@@ -1,16 +1,17 @@
-# weather
+# Weather App with Easy Localization
 
-A new Flutter project.
+A simple Flutter weather app that demonstrates multi-language support using the [easy_localization](https://pub.dev/packages/easy_localization) package. This project is designed to help you understand localization in Flutter with Easy Localization.
+
+## Features
+- Multi-language support with easy localization.
+- Weather data display for selected locations.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK installed.
+- Add dependencies using `flutter pub get`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the App
+```bash
+flutter run
