@@ -1,0 +1,23 @@
+{
+    "search": {
+        "title": "City Search"
+    },
+    "setting": {
+        "title": "Settings",
+        "temperature": {
+            "title": "Temperature Units",
+            "subtitle": "Use metric measurements for temperature units."
+        },
+        "language": {
+            "title": "Language",
+            "subtitle": "English Language On."
+        }
+    },
+    "weather": {
+        "emptyBody": "Please Select a City!",
+        "errorBody": "Something went wrong!",
+        "loadingBody": "Loading Weather",
+        "populateTitle": "{}°{}",
+        "populateBody": "Last Updated at {} "
+    }
+}
